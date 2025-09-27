@@ -1,2 +1,2 @@
-# exercicios_estudosqa
-Exercicios dos estudos de Qualidade de Software
+# exercícios_estudosqa
+Exercícios dos estudos de Qualidade de Software
